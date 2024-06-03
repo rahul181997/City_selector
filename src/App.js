@@ -1,10 +1,10 @@
-// import logo from './logo.svg';
-// import './App.css';
-import CitySelector from "./country";
+import React from "react";
+import CitySelector from "./components/Country";
+
 function App() {
   return (
-    <div className="App">
-      <CitySelector/>
+    <div>
+      <CitySelector />
     </div>
   );
 }
