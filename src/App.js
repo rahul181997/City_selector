@@ -1,10 +1,10 @@
 // import logo from './logo.svg';
 // import './App.css';
-import Country from "./country";
+import CitySelector from "./country";
 function App() {
   return (
     <div className="App">
-      <Country/>
+      <CitySelector/>
     </div>
   );
 }
